@@ -46,11 +46,5 @@ def one_hot(painting_data):
 
 
 print(f"Orignal Dataset is: ",painting_data)
-a = int(input("\nEnter 1 for Ordinal, 2 for One_Hot encoding: "))
 
-if(a==1):
-    ordinal(painting_data)
-elif(a==2):
-    one_hot(painting_data)
-else:
-    print("Invalid input")
+# Just run whatever encoding function with the parameter (painting_data) by calling it.
