@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 painting_data = pd.read_csv('painting_data.csv')
 
