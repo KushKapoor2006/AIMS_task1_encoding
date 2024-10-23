@@ -48,3 +48,6 @@ def one_hot(painting_data):
 print(f"Orignal Dataset is: ",painting_data)
 
 # Just run whatever encoding function with the parameter (painting_data) by calling it.
+
+
+
